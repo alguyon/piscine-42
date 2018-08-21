@@ -1,0 +1,7 @@
+Credentials cache: API:6B07475B-1240-47A2-9BE3-4E8AF765B6BD
+        Principal: alguyon@42.FR
+
+  Issued                Expires               Principal
+Jul 31 22:06:07 2018  Aug  7 22:06:07 2018  krbtgt/42.FR@42.FR
+Jul 31 22:06:09 2018  Aug  7 22:06:07 2018  ldap/ldap-proxy.42.fr@42.FR
+Jul 31 22:06:10 2018  Aug  7 22:06:07 2018  HTTP/student-storage-2.42.fr@42.FR

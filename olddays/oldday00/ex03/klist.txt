@@ -1,0 +1,5 @@
+Credentials cache: API:0AD109B7-C537-49E1-AA93-AD7E4F4F8A4B
+        Principal: alguyon@42.FR
+
+  Issued                Expires               Principal
+Jul 30 21:37:56 2018  Aug  6 21:37:56 2018  krbtgt/42.FR@42.FR
